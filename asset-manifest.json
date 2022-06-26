@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todolist-tugas/static/css/main.d8e665f2.css",
+    "main.js": "/Todolist-tugas/static/js/main.1a61e17a.js",
+    "index.html": "/Todolist-tugas/index.html",
+    "main.d8e665f2.css.map": "/Todolist-tugas/static/css/main.d8e665f2.css.map",
+    "main.1a61e17a.js.map": "/Todolist-tugas/static/js/main.1a61e17a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8e665f2.css",
+    "static/js/main.1a61e17a.js"
+  ]
+}
